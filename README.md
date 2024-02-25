@@ -30,7 +30,7 @@ npm run client
 
 ## Author
 
-**germancutraro**
+Lai Deming
 
 ## Why
 
